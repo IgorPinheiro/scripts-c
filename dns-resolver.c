@@ -1,4 +1,5 @@
-//Programa ensinado no curso da DESEC
+//Programa que resolve o DNS e informa o ip.
+//Program that solve DNS and show IP of the host.
 //IGOR PINHEIRO : 21/05/20
 
 #include <stdio.h>
